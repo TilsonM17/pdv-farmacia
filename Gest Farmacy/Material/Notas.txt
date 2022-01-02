@@ -1,0 +1,38 @@
+﻿cl_GestorBD gestor = new cl_GestorBD("loja");
+
+            //gestor.EXE_NON_QUERY("INSERT INTO clientes VALUES(" +
+            //                     1 + ", " +
+            //                     "'Carlos', " +
+            //                     "'34583476', " +
+            //                     "'" + DateTime.Now + "'");
+
+            //criar a lista de parâmetros
+            List<cl_GestorBD.SQLParametro> parametros = new List<cl_GestorBD.SQLParametro>();
+            parametros.Add(new cl_GestorBD.SQLParametro("@id_cliente", 1));
+            parametros.Add(new cl_GestorBD.SQLParametro("@nome", "Carlos"));
+            parametros.Add(new cl_GestorBD.SQLParametro("@telefone", "123517236"));
+            parametros.Add(new cl_GestorBD.SQLParametro("@atualizacao", DateTime.Now));
+
+            gestor.EXE_NON_QUERY("INSERT INTO clientes VALUES(" +
+                                 "@id_cliente, "+
+                                 "@nome, "+
+                                 "@telefone, "+
+                                 "@atualizacao)", parametros);
+
+            MessageBox.Show("OK");
+
+
+
+			/prepara uma datatable
+            cl_GestorBD gestor = new cl_GestorBD("loja");
+
+            DataTable dados = gestor.PREPARAR_DATATABLE("SELECT * FROM clientes");
+
+            foreach (DataRow linha in dados.Rows)
+            {
+                //alterar o telefone
+                string novo_telefone = "(01) " + linha["telefone"].ToString();
+                linha["telefone"] = novo_telefone;
+            }
+
+            gestor.GRAVAR_DATATABLE(dados);

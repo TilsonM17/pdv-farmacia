@@ -1,0 +1,228 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{27E30AF7-847A-4CC1-8420-5B0036F3ADF5}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>M17</RootNamespace>
+    <AssemblyName>Gest Farmacy</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <UseVSHostingProcess>true</UseVSHostingProcess>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>
+    </ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.SqlServerCe, Version=4.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\System.Data.SqlServerCe.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Classes\cl_converter.cs" />
+    <Compile Include="Classes\cl_usuario.cs" />
+    <Compile Include="Classes\cl_venda.cs" />
+    <Compile Include="Classes\Database.cs" />
+    <Compile Include="db_farmaciaDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>db_farmaciaDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="frm_estoque.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_estoque.Designer.cs">
+      <DependentUpon>frm_estoque.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_atividade.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_atividade.Designer.cs">
+      <DependentUpon>frm_atividade.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_sobre.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_sobre.Designer.cs">
+      <DependentUpon>frm_sobre.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Vendas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Vendas.Designer.cs">
+      <DependentUpon>frm_Vendas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_funcionario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_funcionario.Designer.cs">
+      <DependentUpon>frm_funcionario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Home.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Home.Designer.cs">
+      <DependentUpon>frm_Home.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_itemsCompra.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_itemsCompra.Designer.cs">
+      <DependentUpon>frm_itemsCompra.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_login.Designer.cs">
+      <DependentUpon>frm_login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Classes\helpers.cs" />
+    <Compile Include="frm_produto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_produto.Designer.cs">
+      <DependentUpon>frm_produto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_venda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_venda.Designer.cs">
+      <DependentUpon>frm_venda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_welcome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_welcome.Designer.cs">
+      <DependentUpon>frm_welcome.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="relatorio\frm_relatorio_venda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="relatorio\frm_relatorio_venda.Designer.cs">
+      <DependentUpon>frm_relatorio_venda.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="frm_estoque.resx">
+      <DependentUpon>frm_estoque.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_atividade.resx">
+      <DependentUpon>frm_atividade.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_sobre.resx">
+      <DependentUpon>frm_sobre.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Vendas.resx">
+      <DependentUpon>frm_Vendas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_funcionario.resx">
+      <DependentUpon>frm_funcionario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Home.resx">
+      <DependentUpon>frm_Home.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_itemsCompra.resx">
+      <DependentUpon>frm_itemsCompra.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_login.resx">
+      <DependentUpon>frm_login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_produto.resx">
+      <DependentUpon>frm_produto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_venda.resx">
+      <DependentUpon>frm_venda.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_welcome.resx">
+      <DependentUpon>frm_welcome.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="relatorio\frm_relatorio_venda.resx">
+      <DependentUpon>frm_relatorio_venda.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="relatorio\Rel_vendas.rdlc" />
+    <None Include="app.config" />
+    <None Include="db_farmaciaDataSet.xsc">
+      <DependentUpon>db_farmaciaDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="db_farmaciaDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>db_farmaciaDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="db_farmaciaDataSet.xss">
+      <DependentUpon>db_farmaciaDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\img\images %284%29.png" />
+    <Content Include="Material\Notas.txt" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

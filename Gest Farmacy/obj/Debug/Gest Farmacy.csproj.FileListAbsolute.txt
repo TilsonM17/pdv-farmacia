@@ -1,0 +1,100 @@
+C:\projectos Feitos C#\Gest Farmacy\Gest Farmacy\bin\Debug\Gest Farmacy.exe
+C:\projectos Feitos C#\Gest Farmacy\Gest Farmacy\bin\Debug\Gest Farmacy.pdb
+C:\projectos Feitos C#\Gest Farmacy\Gest Farmacy\obj\Debug\M17.frm_funcionario.resources
+C:\projectos Feitos C#\Gest Farmacy\Gest Farmacy\obj\Debug\M17.frm_Home.resources
+C:\projectos Feitos C#\Gest Farmacy\Gest Farmacy\obj\Debug\M17.frm_itemsCompra.resources
+C:\projectos Feitos C#\Gest Farmacy\Gest Farmacy\obj\Debug\M17.frm_login.resources
+C:\projectos Feitos C#\Gest Farmacy\Gest Farmacy\obj\Debug\M17.frm_produto.resources
+C:\projectos Feitos C#\Gest Farmacy\Gest Farmacy\obj\Debug\M17.frm_venda.resources
+C:\projectos Feitos C#\Gest Farmacy\Gest Farmacy\obj\Debug\M17.frm_welcome.resources
+C:\projectos Feitos C#\Gest Farmacy\Gest Farmacy\obj\Debug\M17.Properties.Resources.resources
+C:\projectos Feitos C#\Gest Farmacy\Gest Farmacy\obj\Debug\Gest Farmacy.csproj.GenerateResource.Cache
+C:\projectos Feitos C#\Gest Farmacy\Gest Farmacy\obj\Debug\Gest Farmacy.exe
+C:\projectos Feitos C#\Gest Farmacy\Gest Farmacy\obj\Debug\Gest Farmacy.pdb
+C:\projectos Feitos C#\Gest Farmacy\Gest Farmacy\obj\Debug\M17.frm_Vendas.resources
+C:\projectos Feitos C#\Gest Farmacy\Gest Farmacy\obj\Debug\M17.frm_atividade.resources
+C:\projectos Feitos C#\Gest Farmacy\Gest Farmacy\obj\Debug\M17.frm_sobre.resources
+C:\projectos Feitos C#\Gest Farmacy\Gest Farmacy\bin\Debug\System.Data.SqlServerCe.dll
+C:\projectos Feitos C#\Gest Farmacy\Gest Farmacy\obj\Debug\Gest Farmacy.csprojResolveAssemblyReference.cache
+C:\Users\Telson\Desktop\temp Folder Music -- Bar Dos genuinos(Tilson é um deus deste mundo falhados\TilsonM17\Gest Farmacy\Gest Farmacy\bin\Debug\Gest Farmacy.exe
+C:\Users\Telson\Desktop\temp Folder Music -- Bar Dos genuinos(Tilson é um deus deste mundo falhados\TilsonM17\Gest Farmacy\Gest Farmacy\bin\Debug\Gest Farmacy.pdb
+C:\Users\Telson\Desktop\temp Folder Music -- Bar Dos genuinos(Tilson é um deus deste mundo falhados\TilsonM17\Gest Farmacy\Gest Farmacy\obj\Debug\Gest Farmacy.csproj.AssemblyReference.cache
+C:\Users\Telson\Desktop\temp Folder Music -- Bar Dos genuinos(Tilson é um deus deste mundo falhados\TilsonM17\Gest Farmacy\Gest Farmacy\obj\Debug\M17.frm_atividade.resources
+C:\Users\Telson\Desktop\temp Folder Music -- Bar Dos genuinos(Tilson é um deus deste mundo falhados\TilsonM17\Gest Farmacy\Gest Farmacy\obj\Debug\M17.frm_sobre.resources
+C:\Users\Telson\Desktop\temp Folder Music -- Bar Dos genuinos(Tilson é um deus deste mundo falhados\TilsonM17\Gest Farmacy\Gest Farmacy\obj\Debug\M17.frm_Vendas.resources
+C:\Users\Telson\Desktop\temp Folder Music -- Bar Dos genuinos(Tilson é um deus deste mundo falhados\TilsonM17\Gest Farmacy\Gest Farmacy\obj\Debug\M17.frm_funcionario.resources
+C:\Users\Telson\Desktop\temp Folder Music -- Bar Dos genuinos(Tilson é um deus deste mundo falhados\TilsonM17\Gest Farmacy\Gest Farmacy\obj\Debug\M17.frm_Home.resources
+C:\Users\Telson\Desktop\temp Folder Music -- Bar Dos genuinos(Tilson é um deus deste mundo falhados\TilsonM17\Gest Farmacy\Gest Farmacy\obj\Debug\M17.frm_itemsCompra.resources
+C:\Users\Telson\Desktop\temp Folder Music -- Bar Dos genuinos(Tilson é um deus deste mundo falhados\TilsonM17\Gest Farmacy\Gest Farmacy\obj\Debug\M17.frm_login.resources
+C:\Users\Telson\Desktop\temp Folder Music -- Bar Dos genuinos(Tilson é um deus deste mundo falhados\TilsonM17\Gest Farmacy\Gest Farmacy\obj\Debug\M17.frm_produto.resources
+C:\Users\Telson\Desktop\temp Folder Music -- Bar Dos genuinos(Tilson é um deus deste mundo falhados\TilsonM17\Gest Farmacy\Gest Farmacy\obj\Debug\M17.frm_venda.resources
+C:\Users\Telson\Desktop\temp Folder Music -- Bar Dos genuinos(Tilson é um deus deste mundo falhados\TilsonM17\Gest Farmacy\Gest Farmacy\obj\Debug\M17.frm_welcome.resources
+C:\Users\Telson\Desktop\temp Folder Music -- Bar Dos genuinos(Tilson é um deus deste mundo falhados\TilsonM17\Gest Farmacy\Gest Farmacy\obj\Debug\M17.Properties.Resources.resources
+C:\Users\Telson\Desktop\temp Folder Music -- Bar Dos genuinos(Tilson é um deus deste mundo falhados\TilsonM17\Gest Farmacy\Gest Farmacy\obj\Debug\Gest Farmacy.csproj.GenerateResource.cache
+C:\Users\Telson\Desktop\temp Folder Music -- Bar Dos genuinos(Tilson é um deus deste mundo falhados\TilsonM17\Gest Farmacy\Gest Farmacy\obj\Debug\Gest Farmacy.csproj.CoreCompileInputs.cache
+C:\Users\Telson\Desktop\temp Folder Music -- Bar Dos genuinos(Tilson é um deus deste mundo falhados\TilsonM17\Gest Farmacy\Gest Farmacy\obj\Debug\Gest Farmacy.csproj.CopyComplete
+C:\Users\Telson\Desktop\temp Folder Music -- Bar Dos genuinos(Tilson é um deus deste mundo falhados\TilsonM17\Gest Farmacy\Gest Farmacy\obj\Debug\Gest Farmacy.exe
+C:\Users\Telson\Desktop\temp Folder Music -- Bar Dos genuinos(Tilson é um deus deste mundo falhados\TilsonM17\Gest Farmacy\Gest Farmacy\obj\Debug\Gest Farmacy.pdb
+C:\Users\Telson\Desktop\Não apagar(BAKAS)\TilsonM17 - Projecto Editavel\Gest Farmacy\Gest Farmacy\bin\Debug\Gest Farmacy.exe
+C:\Users\Telson\Desktop\Não apagar(BAKAS)\TilsonM17 - Projecto Editavel\Gest Farmacy\Gest Farmacy\bin\Debug\Gest Farmacy.pdb
+C:\Users\Telson\Desktop\Não apagar(BAKAS)\TilsonM17 - Projecto Editavel\Gest Farmacy\Gest Farmacy\obj\Debug\Gest Farmacy.csproj.AssemblyReference.cache
+C:\Users\Telson\Desktop\Não apagar(BAKAS)\TilsonM17 - Projecto Editavel\Gest Farmacy\Gest Farmacy\obj\Debug\M17.frm_atividade.resources
+C:\Users\Telson\Desktop\Não apagar(BAKAS)\TilsonM17 - Projecto Editavel\Gest Farmacy\Gest Farmacy\obj\Debug\M17.frm_sobre.resources
+C:\Users\Telson\Desktop\Não apagar(BAKAS)\TilsonM17 - Projecto Editavel\Gest Farmacy\Gest Farmacy\obj\Debug\M17.frm_Vendas.resources
+C:\Users\Telson\Desktop\Não apagar(BAKAS)\TilsonM17 - Projecto Editavel\Gest Farmacy\Gest Farmacy\obj\Debug\M17.frm_funcionario.resources
+C:\Users\Telson\Desktop\Não apagar(BAKAS)\TilsonM17 - Projecto Editavel\Gest Farmacy\Gest Farmacy\obj\Debug\M17.frm_Home.resources
+C:\Users\Telson\Desktop\Não apagar(BAKAS)\TilsonM17 - Projecto Editavel\Gest Farmacy\Gest Farmacy\obj\Debug\M17.frm_itemsCompra.resources
+C:\Users\Telson\Desktop\Não apagar(BAKAS)\TilsonM17 - Projecto Editavel\Gest Farmacy\Gest Farmacy\obj\Debug\M17.frm_login.resources
+C:\Users\Telson\Desktop\Não apagar(BAKAS)\TilsonM17 - Projecto Editavel\Gest Farmacy\Gest Farmacy\obj\Debug\M17.frm_produto.resources
+C:\Users\Telson\Desktop\Não apagar(BAKAS)\TilsonM17 - Projecto Editavel\Gest Farmacy\Gest Farmacy\obj\Debug\M17.frm_venda.resources
+C:\Users\Telson\Desktop\Não apagar(BAKAS)\TilsonM17 - Projecto Editavel\Gest Farmacy\Gest Farmacy\obj\Debug\M17.frm_welcome.resources
+C:\Users\Telson\Desktop\Não apagar(BAKAS)\TilsonM17 - Projecto Editavel\Gest Farmacy\Gest Farmacy\obj\Debug\M17.Properties.Resources.resources
+C:\Users\Telson\Desktop\Não apagar(BAKAS)\TilsonM17 - Projecto Editavel\Gest Farmacy\Gest Farmacy\obj\Debug\Gest Farmacy.csproj.GenerateResource.cache
+C:\Users\Telson\Desktop\Não apagar(BAKAS)\TilsonM17 - Projecto Editavel\Gest Farmacy\Gest Farmacy\obj\Debug\Gest Farmacy.csproj.CoreCompileInputs.cache
+C:\Users\Telson\Desktop\Não apagar(BAKAS)\TilsonM17 - Projecto Editavel\Gest Farmacy\Gest Farmacy\obj\Debug\Gest Farmacy.csproj.CopyComplete
+C:\Users\Telson\Desktop\Não apagar(BAKAS)\TilsonM17 - Projecto Editavel\Gest Farmacy\Gest Farmacy\obj\Debug\Gest Farmacy.exe
+C:\Users\Telson\Desktop\Não apagar(BAKAS)\TilsonM17 - Projecto Editavel\Gest Farmacy\Gest Farmacy\obj\Debug\Gest Farmacy.pdb
+C:\Users\TilsonM17\Documents\Meus Projectos c#\Gest-Farmacy\TilsonM17 - Projecto Editavel\Gest Farmacy\Gest Farmacy\obj\Debug\M17.frm_atividade.resources
+C:\Users\TilsonM17\Documents\Meus Projectos c#\Gest-Farmacy\TilsonM17 - Projecto Editavel\Gest Farmacy\Gest Farmacy\obj\Debug\M17.frm_sobre.resources
+C:\Users\TilsonM17\Documents\Meus Projectos c#\Gest-Farmacy\TilsonM17 - Projecto Editavel\Gest Farmacy\Gest Farmacy\obj\Debug\M17.frm_Vendas.resources
+C:\Users\TilsonM17\Documents\Meus Projectos c#\Gest-Farmacy\TilsonM17 - Projecto Editavel\Gest Farmacy\Gest Farmacy\obj\Debug\M17.frm_funcionario.resources
+C:\Users\TilsonM17\Documents\Meus Projectos c#\Gest-Farmacy\TilsonM17 - Projecto Editavel\Gest Farmacy\Gest Farmacy\obj\Debug\M17.frm_Home.resources
+C:\Users\TilsonM17\Documents\Meus Projectos c#\Gest-Farmacy\TilsonM17 - Projecto Editavel\Gest Farmacy\Gest Farmacy\obj\Debug\M17.frm_itemsCompra.resources
+C:\Users\TilsonM17\Documents\Meus Projectos c#\Gest-Farmacy\TilsonM17 - Projecto Editavel\Gest Farmacy\Gest Farmacy\obj\Debug\M17.frm_login.resources
+C:\Users\TilsonM17\Documents\Meus Projectos c#\Gest-Farmacy\TilsonM17 - Projecto Editavel\Gest Farmacy\Gest Farmacy\obj\Debug\M17.frm_produto.resources
+C:\Users\TilsonM17\Documents\Meus Projectos c#\Gest-Farmacy\TilsonM17 - Projecto Editavel\Gest Farmacy\Gest Farmacy\obj\Debug\M17.frm_venda.resources
+C:\Users\TilsonM17\Documents\Meus Projectos c#\Gest-Farmacy\TilsonM17 - Projecto Editavel\Gest Farmacy\Gest Farmacy\obj\Debug\M17.frm_welcome.resources
+C:\Users\TilsonM17\Documents\Meus Projectos c#\Gest-Farmacy\TilsonM17 - Projecto Editavel\Gest Farmacy\Gest Farmacy\obj\Debug\M17.Properties.Resources.resources
+C:\Users\TilsonM17\Documents\Meus Projectos c#\Gest-Farmacy\TilsonM17 - Projecto Editavel\Gest Farmacy\Gest Farmacy\obj\Debug\M17.relatorio.frm_relatorio_venda.resources
+C:\Users\TilsonM17\Documents\Meus Projectos c#\Gest-Farmacy\TilsonM17 - Projecto Editavel\Gest Farmacy\Gest Farmacy\obj\Debug\Gest Farmacy.csproj.GenerateResource.Cache
+C:\Users\TilsonM17\Documents\Meus Projectos c#\Gest-Farmacy\TilsonM17 - Projecto Editavel\Gest Farmacy\Gest Farmacy\obj\Debug\RdlCompile.cache
+C:\Users\TilsonM17\Documents\Meus Projectos c#\Gest-Farmacy\TilsonM17 - Projecto Editavel\Gest Farmacy\Gest Farmacy\obj\Debug\RdlCompile.compiled
+C:\Users\TilsonM17\Documents\Meus Projectos c#\Gest-Farmacy\TilsonM17 - Projecto Editavel\Gest Farmacy\Gest Farmacy\bin\Debug\Gest Farmacy.exe.config
+C:\Users\TilsonM17\Documents\Meus Projectos c#\Gest-Farmacy\TilsonM17 - Projecto Editavel\Gest Farmacy\Gest Farmacy\bin\Debug\Gest Farmacy.exe
+C:\Users\TilsonM17\Documents\Meus Projectos c#\Gest-Farmacy\TilsonM17 - Projecto Editavel\Gest Farmacy\Gest Farmacy\bin\Debug\Gest Farmacy.pdb
+C:\Users\TilsonM17\Documents\Meus Projectos c#\Gest-Farmacy\TilsonM17 - Projecto Editavel\Gest Farmacy\Gest Farmacy\obj\Debug\Gest Farmacy.exe
+C:\Users\TilsonM17\Documents\Meus Projectos c#\Gest-Farmacy\TilsonM17 - Projecto Editavel\Gest Farmacy\Gest Farmacy\obj\Debug\Gest Farmacy.pdb
+C:\Users\TilsonM17\Documents\Meus Projectos c#\Gest-Farmacy\TilsonM17 - Projecto Editavel\Gest Farmacy\Gest Farmacy\obj\Debug\Gest Farmacy.csprojResolveAssemblyReference.cache
+C:\Users\TilsonM17\Documents\Meus Projectos c#\Gest-Farmacy\TilsonM17 - Projecto Editavel\Gest Farmacy\Gest Farmacy\obj\Debug\M17.frm_estoque.resources
+D:\Meus projectos\Tekyame\Gest-Farmacy\TilsonM17 - Projecto Editavel\Gest Farmacy\Gest Farmacy\bin\Debug\Gest Farmacy.exe.config
+D:\Meus projectos\Tekyame\Gest-Farmacy\TilsonM17 - Projecto Editavel\Gest Farmacy\Gest Farmacy\obj\Debug\Gest Farmacy.exe
+D:\Meus projectos\Tekyame\Gest-Farmacy\TilsonM17 - Projecto Editavel\Gest Farmacy\Gest Farmacy\obj\Debug\Gest Farmacy.pdb
+D:\Meus projectos\Tekyame\Gest-Farmacy\TilsonM17 - Projecto Editavel\Gest Farmacy\Gest Farmacy\bin\Debug\Gest Farmacy.exe
+D:\Meus projectos\Tekyame\Gest-Farmacy\TilsonM17 - Projecto Editavel\Gest Farmacy\Gest Farmacy\bin\Debug\Gest Farmacy.pdb
+D:\Meus projectos\Tekyame\Gest-Farmacy\TilsonM17 - Projecto Editavel\Gest Farmacy\Gest Farmacy\obj\Debug\Gest Farmacy.csprojResolveAssemblyReference.cache
+D:\Meus projectos\Tekyame\Gest-Farmacy\TilsonM17 - Projecto Editavel\Gest Farmacy\Gest Farmacy\obj\Debug\M17.frm_estoque.resources
+D:\Meus projectos\Tekyame\Gest-Farmacy\TilsonM17 - Projecto Editavel\Gest Farmacy\Gest Farmacy\obj\Debug\M17.frm_atividade.resources
+D:\Meus projectos\Tekyame\Gest-Farmacy\TilsonM17 - Projecto Editavel\Gest Farmacy\Gest Farmacy\obj\Debug\M17.frm_sobre.resources
+D:\Meus projectos\Tekyame\Gest-Farmacy\TilsonM17 - Projecto Editavel\Gest Farmacy\Gest Farmacy\obj\Debug\M17.frm_Vendas.resources
+D:\Meus projectos\Tekyame\Gest-Farmacy\TilsonM17 - Projecto Editavel\Gest Farmacy\Gest Farmacy\obj\Debug\M17.frm_funcionario.resources
+D:\Meus projectos\Tekyame\Gest-Farmacy\TilsonM17 - Projecto Editavel\Gest Farmacy\Gest Farmacy\obj\Debug\M17.frm_Home.resources
+D:\Meus projectos\Tekyame\Gest-Farmacy\TilsonM17 - Projecto Editavel\Gest Farmacy\Gest Farmacy\obj\Debug\M17.frm_itemsCompra.resources
+D:\Meus projectos\Tekyame\Gest-Farmacy\TilsonM17 - Projecto Editavel\Gest Farmacy\Gest Farmacy\obj\Debug\M17.frm_login.resources
+D:\Meus projectos\Tekyame\Gest-Farmacy\TilsonM17 - Projecto Editavel\Gest Farmacy\Gest Farmacy\obj\Debug\M17.frm_produto.resources
+D:\Meus projectos\Tekyame\Gest-Farmacy\TilsonM17 - Projecto Editavel\Gest Farmacy\Gest Farmacy\obj\Debug\M17.frm_venda.resources
+D:\Meus projectos\Tekyame\Gest-Farmacy\TilsonM17 - Projecto Editavel\Gest Farmacy\Gest Farmacy\obj\Debug\M17.frm_welcome.resources
+D:\Meus projectos\Tekyame\Gest-Farmacy\TilsonM17 - Projecto Editavel\Gest Farmacy\Gest Farmacy\obj\Debug\M17.Properties.Resources.resources
+D:\Meus projectos\Tekyame\Gest-Farmacy\TilsonM17 - Projecto Editavel\Gest Farmacy\Gest Farmacy\obj\Debug\M17.relatorio.frm_relatorio_venda.resources
+D:\Meus projectos\Tekyame\Gest-Farmacy\TilsonM17 - Projecto Editavel\Gest Farmacy\Gest Farmacy\obj\Debug\Gest Farmacy.csproj.GenerateResource.Cache
+D:\Meus projectos\Tekyame\Gest-Farmacy\TilsonM17 - Projecto Editavel\Gest Farmacy\Gest Farmacy\obj\Debug\RdlCompile.cache
+D:\Meus projectos\Tekyame\Gest-Farmacy\TilsonM17 - Projecto Editavel\Gest Farmacy\Gest Farmacy\obj\Debug\RdlCompile.compiled
