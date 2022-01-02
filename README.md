@@ -1,2 +1,2 @@
 # farmacia-sharp
-Projecto de um sistema de vendas de farmacia,usando c# e SqlCE
+Projecto de um sistema de vendas de farmacia Desktop usando c# e SqlCE
