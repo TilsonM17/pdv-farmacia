@@ -20,8 +20,8 @@ As suas principais funções são:
  - Efectuação de Vendas.
  - Balanço Semanal/Mensal das Contas.
  - Emissão de Factura.
- -Registro de Vendas.
- -Separação de Responsabilidades(Admin/Funcionario).
+ - Registro de Vendas.
+ - Separação de Responsabilidades(Admin/Funcionario).
 
 
 ## Screenshots
