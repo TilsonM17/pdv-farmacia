@@ -1,4 +1,4 @@
-# farmacia-sharp
+# Ponto de Vendas para Farmacias
 
 
 Este é um sistema Desktop de vendas destinado para farmacias.
